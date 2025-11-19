@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "hono": "jsr:@hono/hono@4.9.1",
+    "@hono/otel": "jsr:@hono/otel@1.0.1"
+  }
+}
